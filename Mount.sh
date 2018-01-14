@@ -1,1 +1,1 @@
-sudo mount -t vboxsf FoosWin /media/FoosWin
+sudo mount -t vboxsf FoosWin ~/foosalytics/FoosWin
